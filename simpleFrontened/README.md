@@ -25,13 +25,13 @@ Or copy the files to `elasticsearch/plugins/myPlugin/_site` and load the page fr
 1. Clone this repo locally (or just download and unzip it)
 
   ```sh
-  git clone https://github.com/spenceralger/elasticsearch-angular-example.git
+  git clone https://github.com/ingorichtsmeier/elasticsearch-examples.git
   ```
 
 2. Move into the project
 
   ```sh
-  cd elasticsearch-angular-example
+  cd elasticsearch-examples/simpleFrontend
   ```
 
 3. Install the bower dependencies
@@ -41,4 +41,4 @@ Or copy the files to `elasticsearch/plugins/myPlugin/_site` and load the page fr
   ```
 
 4. Open the index.html file in your browser.
-5. Check out the source for [index.html](https://github.com/spenceralger/elasticsearch-angular-example/blob/master/index.html) to see how it works.
+5. Check out the source for [index.html](https://github.com/ingorichtsmeier/elasticsearch-examples/blob/master/simpleFrontend/index.html) to see how it works.
