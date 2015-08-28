@@ -2,6 +2,8 @@
 
 This is an example project designed to show how you can use elasticsearch.js with angular.
 
+It shows a query box and the first 10 results.
+
 ## Prerequisites
 
 In order to run this example, you will need to have the following installed
@@ -15,6 +17,9 @@ http.cors:
   enabled: true
   allow-origin: /https?:\/\/localhost(:[0-9]+)?/
 ```
+
+Or copy the files to `elasticsearch/plugins/myPlugin/_site` and load the page from the elasticsearch web server
+[http://localhost:9200/_plugin/myPlugin](http://localhost:9200/_plugin/myPlugin)
 
 ## To run the example:
 1. Clone this repo locally (or just download and unzip it)
